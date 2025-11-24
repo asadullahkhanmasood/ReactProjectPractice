@@ -9,8 +9,8 @@ function Navbar() {
 
   return (
     <>
-      <header className="bg-amber-300 shadow-lg">
-        <nav className="flex items-center justify-between px-4 py-4 md:px-8">
+      <header className="bg-purple-600 shadow-lg">
+        <nav className="flex items-center justify-between px-10 py-4 md:px-20 sticky ">
           {/* Logo */}
           <div className="logo text-3xl font-bold flex-shrink-0">
             <h2>LOGO</h2>
