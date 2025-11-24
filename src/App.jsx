@@ -5,6 +5,7 @@ import Navbar from './components/navbar/navbar'
 // import "react-router" from 'react-router-dom'
 import {BrowserRouter, Routes , Route } from 'react-router-dom'
 import Home from "./pages/home/home"
+import Projects from './pages/projects/projects'
 function App() {
 
   return (
@@ -17,6 +18,8 @@ function App() {
 
 
     </Routes>
+    <Projects/>
+
 
 
 
