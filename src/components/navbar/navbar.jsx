@@ -9,7 +9,7 @@ function Navbar() {
 
   return (
     <>
-      <header className="bg-purple-600 shadow-lg">
+      <header className=" bg-[#171719] text-white shadow-lg">
         <nav className="flex items-center justify-between px-10 py-4 md:px-20 sticky ">
           {/* Logo */}
           <div className="logo text-3xl font-bold flex-shrink-0">
