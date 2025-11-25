@@ -35,7 +35,7 @@ function About() {
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     Laboriosam ipsam ea odio sapiente vitae qui consectetur
                     similique a. Maxime aliquid, at quae incidunt necessitatibus
-                    exercitationem sint? Mollitia, odio sapiente? Dicta?
+                    exercitationem sint? Mollitia, odio sapiente? Dicta?asda
                   </p>
                 </p>
 

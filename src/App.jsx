@@ -7,6 +7,7 @@ import {BrowserRouter, Routes , Route } from 'react-router-dom'
 import Home from "./pages/home/home"
 import Projects from './pages/projects/projects'
 import About from './pages/about-me/about'
+import Footer from './components/footer/footer'
 function App() {
 
   return (
@@ -21,6 +22,7 @@ function App() {
     </Routes>
     <Projects/>
     <About/>
+    <Footer/>
 
 
 
