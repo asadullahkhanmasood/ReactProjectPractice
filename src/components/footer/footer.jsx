@@ -5,7 +5,7 @@ function Footer() {
 <>
 <div className="footer md:w-full md:bg-black md:mt-20 md:h-100">
     <div className="footer-box bg-white md:w-[80%] md:mx-auto md:h-[90%]">
-1
+        
     </div>
 </div>
 

@@ -1,5 +1,5 @@
 import React from "react";
-import Img from "/home/asad/Desktop/CompleteWebApp/webApp/src/assets/annika-palmari-RIt88XBR3G0-unsplash.jpg";
+import Img from "../../assets/mypic.jpg";
 import { GoArrowBoth } from "react-icons/go";
 
 function About() {
